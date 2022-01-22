@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW_1</string>
+    <string name="write_something">write something</string>
+    <string name="show">Show</string>
+    <string name="hello_it_is_second_activity">Hello it is second Activity</string>
+    <string name="this_is_button">This is button</string>
+</resources>
